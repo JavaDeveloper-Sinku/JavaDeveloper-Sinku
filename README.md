@@ -1,7 +1,4 @@
 <!-- ===================== 🎉 PREMIUM GITHUB README — RISHI SINGH 🎉 ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="600" />
-</p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Rishi Singh</span></h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | System Design</h3>
