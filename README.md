@@ -108,14 +108,14 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 
 ---
 
-## 🔗 4. **Microservices Architecture (Spring Cloud)**
+## 🔗 3. **Microservices Event-driven Architecture (Spring Cloud)**
 ✔ Product Service  
 ✔ Order Service  
 ✔ API Gateway  
 ✔ Eureka Discovery Server  
 ✔ Resilience4J, Config Server  
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/JavaDeveloper-Sinku/ecom-Microservice_CodeBase.git
 
 ---
 
