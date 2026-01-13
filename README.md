@@ -51,10 +51,8 @@
 </div>
 
 ---
-# 🛠️ Tech Stack 
-
-## 🔧 Backend
-- Java 8+ - Spring Boot - Spring MVC - Spring Security - Hibernate / JPA - Microservices - REST APIs
+## 🔧 Backend Tech Stack
+- Java 8+ - Spring Boot - Spring Security - SONAR - JWT-Auth  - Hibernate / JPA - Microservices - REST APIs
 
 ## 🐳 DevOps & Tools
 Docker - Git & GitHub - CI/CD Basics - Postman - IntelliJ IDEA - VS Code
