@@ -1,4 +1,4 @@
-<!-- ===================== 🎉 PREMIUM GITHUB README — RISHI SINGH 🎉 ===================== -->
+<!-- ===================== 🎉 PREMIUM GITHUB README — SISHI SINGH 🎉 ===================== -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Rishi Singh</span></h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | System Design</h3>
@@ -59,31 +59,14 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 # 🛠️ Tech Stack 
 
 ## 🔧 Backend
-- Java 8+
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate / JPA
-- Microservices
-- REST APIs
+- Java 8+ - Spring Boot - Spring MVC - Spring Security - Hibernate / JPA - Microservices - REST APIs
 
 ## 🐳 DevOps & Tools
-- Docker
-- Git & GitHub
-- CI/CD Basics
-- Postman
-- IntelliJ IDEA
-- VS Code
+Docker - Git & GitHub - CI/CD Basics - Postman - IntelliJ IDEA - VS Code
 
 
 
 ---
-
-# 📬 Contact Me
-- 📧 Email: sinkusingh173@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/sinku-singh-7a22ab233/
-- 🐙 GitHub: https://github.com/JavaDeveloper-Sinku
-- 🔗 Portfolio: https://sinku-portfolio.vercel.app/
 
 
 ---
