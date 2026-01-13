@@ -1,6 +1,6 @@
-<!-- ===================== 🎉 PREMIUM GITHUB README — SISHI SINGH 🎉 ===================== -->
+<!-- ===================== 🎉 GITHUB README — SINKU SINGH 🎉 ===================== -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Rishi Singh</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Sinku Singh</span></h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | System Design</h3>
 
 <p align="center">
@@ -51,11 +51,6 @@
 </div>
 
 ---
-
-# 🧑‍💻 About Me
-I am a **Java Backend Developer** skilled in building scalable systems using **Spring Boot**, **Microservices**, and **clean architecture**. I love solving problems, optimizing performance, and creating backend services that never break under load.
----
-
 # 🛠️ Tech Stack 
 
 ## 🔧 Backend
@@ -63,16 +58,3 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 
 ## 🐳 DevOps & Tools
 Docker - Git & GitHub - CI/CD Basics - Postman - IntelliJ IDEA - VS Code
-
-
-
----
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center">✨ Built with ❤️ using Java, Spring Boot & Next.js ✨</p>
