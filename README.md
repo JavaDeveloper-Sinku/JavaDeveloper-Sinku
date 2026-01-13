@@ -54,14 +54,6 @@
 
 # 🧑‍💻 About Me
 I am a **Java Backend Developer** skilled in building scalable systems using **Spring Boot**, **Microservices**, and **clean architecture**. I love solving problems, optimizing performance, and creating backend services that never break under load.
-
-💡 Focus Areas:
-- High-performance backend systems
-- REST APIs & authentication (JWT, Spring Security)
-- Microservices communication patterns
-- SQL schema design & optimization
-- Distributed systems & system design
-
 ---
 
 # 🛠️ Tech Stack 
@@ -84,38 +76,6 @@ I am a **Java Backend Developer** skilled in building scalable systems using **S
 - VS Code
 
 
-# ⭐ Premium Project Showcase (Expanded)
-
-## 🛍️ 1. **E-Commerce Backend — Spring Boot + JWT + MySQL**
-✔ Complete user authentication (JWT + refresh token)  
-✔ Product, Order, Cart, Payment modules  
-✔ Admin dashboard API  
-✔ Clean 3-layered architecture  
-✔ Highly scalable design  
-
-🔗 GitHub: https://github.com/JavaDeveloper-Sinku/ecom-Microservice_CodeBase
-
----
-
-## 🍽️ 2. **Restaurant POS System — Spring Boot + Next.js**
-✔ Offline-first billing application  
-✔ Menu editor, invoice creator, daily sales report  
-✔ Printable PDF receipts  
-✔ Super-fast UI made for cashier use  
-
-🔗 GitHub: https://github.com/JavaDeveloper-Sinku/Restaurant-pos_SystemUi
-
-
----
-
-## 🔗 3. **Microservices Event-driven Architecture (Spring Cloud)**
-✔ Product Service  
-✔ Order Service  
-✔ API Gateway  
-✔ Eureka Discovery Server  
-✔ Resilience4J, Config Server  
-
-🔗 GitHub: https://github.com/JavaDeveloper-Sinku/ecom-Microservice_CodeBase.git
 
 ---
 
