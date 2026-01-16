@@ -3,7 +3,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Sinku Singh</span></h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | System Design</h3>
 
-# Tech Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -18,5 +17,5 @@
 <h3 align="center">  🔧 Backend Tech Stack</h3>
 - Java 8+ - Spring Boot - Spring Security - SONAR - JWT-Auth  - Hibernate / JPA - Microservices - REST APIs
 
-## 🐳 DevOps & Tools
+<h3 align="center"> 🐳 DevOps & Tools</h3>
 Docker - Git & GitHub - CI/CD Basics - Postman - IntelliJ IDEA - VS Code
