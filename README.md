@@ -2,11 +2,6 @@
 
 <h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Sinku Singh</span></h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | System Design</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=9B59B6&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+Specialist;Microservices+Architect;System+Design+Enthusiast;Building+Scalable+Backends" />
-</p>
-
 ---
 
 # Tech Badges
