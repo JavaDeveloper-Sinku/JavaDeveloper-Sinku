@@ -12,11 +12,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
----
-<h3 align="center">  🔧 Backend Tech Stack</h3>
-<h3 align="center">  Java 8+ - Spring Boot - Spring Security - SONAR - JWT-Auth  - Hibernate / JPA - Microservices - REST APIs</h3>
-
-<h3 align="center"> 🐳 DevOps & Tools</h3>
-<h3 align="center"> Docker - Git & GitHub - CI/CD Basics - Postman - IntelliJ IDEA - VS Code</h3>
-
