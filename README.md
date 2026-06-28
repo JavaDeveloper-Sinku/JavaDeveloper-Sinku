@@ -1,6 +1,6 @@
 <!-- ===================== 🎉 GITHUB README — SINKU SINGH 🎉 ===================== -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#9b59b6">Sinku Singh</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#9b59b6">Sinku Singh</span></h1>
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | System Design</h3>
 
 <p align="center">
